@@ -39,6 +39,7 @@ class loginState extends State<Login>{
       home: Scaffold(
         body: Center(
           child: Column(
+           
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
