@@ -45,7 +45,6 @@ class signinState extends State<Signin>{
                         ),
                         style: ElevatedButton.styleFrom(
                           primary: Colors.white,
-                          onPrimary: Colors.red,
                           shape: CircleBorder(),
                           padding: EdgeInsets.all(20),
                         ),
