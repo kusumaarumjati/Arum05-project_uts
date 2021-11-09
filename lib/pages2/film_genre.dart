@@ -77,7 +77,7 @@ class filmGenreState extends State<Film_genre>{
                      
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                       onPrimary: Colors.yellow,
+                       onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -97,7 +97,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -124,7 +124,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -144,7 +144,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -171,7 +171,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -191,7 +191,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -233,7 +233,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -253,7 +253,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -280,7 +280,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
@@ -300,7 +300,7 @@ class filmGenreState extends State<Film_genre>{
                      ),
                      style: ElevatedButton.styleFrom(
                        primary: Colors.white,
-                        onPrimary: Colors.yellow,
+                        onPrimary: Colors.yellowAccent,
                      ),
                    ),
                  ),
