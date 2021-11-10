@@ -124,7 +124,7 @@ class filmGenreState extends State<Film_genre>{
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Action',
-                       textAlign: TextAlign.center
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
