@@ -65,9 +65,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Horor',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -86,9 +89,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                       padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Music',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -113,9 +119,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Action',
+                       textAlign: TextAlign.center
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -133,9 +142,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Drama',
+                       textAlign:TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -160,9 +172,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'War',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -180,9 +195,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Crime',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -222,9 +240,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Indonesia',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -242,9 +263,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'English',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -269,9 +293,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Japanese',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
@@ -289,9 +316,12 @@ class filmGenreState extends State<Film_genre>{
                    child: ElevatedButton(
                      onPressed: (){},
                      child: Container(
+                       width: 150,
+                       height: 45,
                        padding: EdgeInsets.fromLTRB(35, 13, 35, 13),
                        child: Text(
                        'Korean',
+                       textAlign: TextAlign.center,
                        style: TextStyle(
                          fontSize: 15,
                          color: Colors.black
